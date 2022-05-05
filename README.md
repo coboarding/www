@@ -11,3 +11,9 @@ wiadomo, ze kulture trudno zmienic i czasem warto zatrudnic kogos kto ma pouklad
 bo mozna to oprzec o juz istniejace zasoby
 
 ## coboarding to taki long boarding do nowego projektu
+
+
+Nauka polega na praktycznym wieloetapowym zdobywanmiu wiedzy z zakresu potrzebnego do projektu do którego kandydat zamierza przystąpić.
+
+WYkrozystując efektywne narządzia można szybciej pozyskać wiedzę:
++ [plainedit/bash: bash.plainedit.com](https://github.com/plainedit/bash)
