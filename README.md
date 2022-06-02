@@ -1,6 +1,9 @@
-# www
-www.coboarding.com
+# www.coboarding.com
 
+
+onboarding to ciekawy temat, bo wszelkie jednorazowe procesy w firmach sa bagatelizowane i gdzieś upychane, bo przecież na tym się nie zarabia...
+
+ale w małych organizacjach nie da się tego bagatelizować, to przedłużenie rekrutacji i od tego może zależeć dalsze utrzymanie kandydata, jak zostanie byle jak wdrożony to odpadnie sam albo na skutek "przypadku".  Niby to tylko HR - czyli zasób ludzki, ale każde zasoby nawet zwierzęce są obecnie monitorowane i ich użycie wykorzystywane co do skrawka. Trudno oczekiwać, by #coboarding zrobił się sam, dlatego ten temat będzie rozwijany w #2030 w #softreck z pomocą #plainedit i kilku innych przydatnych narzędzi do współpracy przy szybkich wdrożeniach.
 
 
 
