@@ -18,12 +18,42 @@ bo mozna to oprzec o juz istniejace zasoby
 
 Nauka polega na praktycznym wieloetapowym zdobywanmiu wiedzy z zakresu potrzebnego do projektu do którego kandydat zamierza przystąpić.
 
-WYkrozystując efektywne narządzia można szybciej pozyskać wiedzę:
+WYkorzystując efektywne narządzia można szybciej pozyskać wiedzę:
 + [plainedit/bash: bash.plainedit.com](https://github.com/plainedit/bash)
 
 
-## Use Case
+ 
+## Company
 
+wszelkie wewnątrzne procesy dotyczące kontaktu i wymiany danych z ludźmi na początku i na końcu procesów, cyzli ich odpowiednie wprowadzenie i zakończenie procesu
+
++ onboarding
++ offboarding
++ order
++ sale
++ support
+
+
+for whom:
+
++ partner
++ customer
++ student
++ worker
+
+procesy:
+
++ contract
++ rozpoczecie
++ zakończenie
++ konflikty
+
+
+
++ tv: opendays for reviewer
+
+
+## Non Profit organisation 
 
 Napotkaliśmy dylemat kostki rubika... będę wdzięczny za pomoc w znalezieniu rozwiązania przy efektywnym zarządzaniu i realizacji projektów IT w makerslab - organizacji no-profit, gdzie staramy się razem wykonywać projekty w duchu kooperacji.
 
@@ -47,6 +77,7 @@ Tak by nikt nie czuł się przymuszany, by mógł i umiał oddać swoją odpowie
 3. Priorytety - codzienne dyskusje w sprawie projektu/zadań, gdzie ustalamy istotne rzeczy na kolejny tydzień i zależności ryzyka
 
 4. Strategia - co kilka tygodni ustalamy kierunek działań, zbieramy się jako cały zespół, ustalamy kamienie milowe
+
 
 ### Zwinny Rubik
 
