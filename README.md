@@ -1,6 +1,41 @@
 # www.coboarding.com
 
 
+Odkryj, w jaki sposób sztuczna inteligencja może zrewolucjonizować hasztag #offboarding pracowników!
+
+Kiedy pracownicy odchodzą, często zabierają ze sobą cenną wiedzę, powodując zakłócenia operacyjne i luki w wiedzy.
+
+Niezależnie od tego, czy jest to spowodowane zapomnianymi informacjami, niechęcią pracownika do dzielenia się nimi, czy brakiem ustrukturyzowanych procesów offboardingu,
+
+wynik jest taki sam: utrata wiedzy i spadek produktywności
+
+
+
+Wyobraź sobie, że nigdy nie musisz szukać brakujących szczegółów lub polować na trudne do znalezienia informacje.
+
+OFFBOARDING
+
+CoBoarding offboarding Assistant zapewnia natychmiastowy dostęp do potrzebnych odpowiedzi, znacznie zmniejszając zakłócenia operacyjne.
+
+To tak, jakby mieć w pogotowiu wiedzę odchodzącego pracownika, gotową w każdej chwili wesprzeć Twój zespół.
+
+Dzięki natychmiastowemu pobieraniu potrzebnych informacji z historii wiadomości e-mail byłego pracownika, asystent AI wypełnia lukę w wiedzy, dzięki czemu przejście jest płynniejsze dla wszystkich zaangażowanych stron.
+
+
+## Kluczowe zalety naszego asystenta AI obejmują:
+
++ Płynny transfer wiedzy
++ Zmniejszone zakłócenia operacyjne
++ Oszczędność czasu dzięki natychmiastowemu wyszukiwaniu informacji.
+
+
+usprawnij proces offboardingu i zapewnij swojemu zespołowi dostęp do informacji.
+
+
+
+
+## ONBOARDIONG
+
 onboarding to ciekawy temat, bo wszelkie jednorazowe procesy w firmach sa bagatelizowane i gdzieś upychane, bo przecież na tym się nie zarabia...
 
 ale w małych organizacjach nie da się tego bagatelizować, to przedłużenie rekrutacji i od tego może zależeć dalsze utrzymanie kandydata, jak zostanie byle jak wdrożony to odpadnie sam albo na skutek "przypadku".  Niby to tylko HR - czyli zasób ludzki, ale każde zasoby nawet zwierzęce są obecnie monitorowane i ich użycie wykorzystywane co do skrawka. Trudno oczekiwać, by #coboarding zrobił się sam, dlatego ten temat będzie rozwijany w #2030 w #softreck z pomocą #plainedit i kilku innych przydatnych narzędzi do współpracy przy szybkich wdrożeniach.
